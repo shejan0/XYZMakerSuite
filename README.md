@@ -15,3 +15,8 @@ Just in case the official download links go fully offline, I have packaged all t
 | XYZmakerSuite_V1.0.5(1A11771)FullPackage1011.dmg | https://xyzprod.blob.core.windows.net/xyzsw/XYZmakerSuite_V1.0.5(1A11771)FullPackage1011.dmg | 2028a12837dda03b9c8205f49caae8b9b4afcb87 | cbc370aa76645dcb37f050b61888d8de | 263603653 bytes |
 | XYZmakerSuite_V1.1.4(14341)_FullPackage.dmg      | https://xyzprod.blob.core.windows.net/xyzsw/XYZmakerSuite_V1.1.4(14341)_FullPackage.dmg      | c95c75aee325a66fe8f3f98a22bdeb9644c1e7a8 | a8c008b5634b45a8b109c42c1f568e18 | 412187881 bytes |
 | XYZmakerSuite_V1.2.0(1C15577).dmg                | https://xyzprod.blob.core.windows.net/xyzsw/XYZmakerSuite_V1.2.0(1C15577).dmg                | e72a40adef7a6ad42c67d608633997ead19c7d64 | cb24dfcced6047028651749b3565989d | 23984125 bytes  |
+
+
+You must use x64 Windows, the installers are 32-bit, but the installed program doesn't support 32-bit Windows calls. You need to install the complete 1.1.1 package first, then you can install 1.2.0's update installer.
+
+For Mac, the 1.0.5 image is for MacOS 10.10 and 10.11, where 1.1.4 and the 1.2.0 updater are for later revisions of MacOS. 
