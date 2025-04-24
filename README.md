@@ -1,5 +1,13 @@
 # XYZMaker Suite Archive
 
+## Extensive Archive
+
+User [tyhallcsu](https://github.com/tyhallcsu) got an official Google Drive link from XYZPrinting for all of their software and created a Google Spreadsheet of all the files in this [issue](https://github.com/shejan0/XYZMakerSuite/issues/2). It may be there if you are looking for some other XYZPrinting software.
+Special thanks
+
+---
+
+
 This repo is a split ZIP archive of the last versions of XYZMaker Suite from XYZPrinting before their closure in 2023.
 
 It is neccessary software for many of their 3D Printers, and their download links have been effectively lost
